@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits foi desenvolvido para auxiliar a rastrear os hábitos.
 
+- [Visite o projeto online] (https://lepetitcuisinier.github.io/nlw-setup)
 
 ## 🔖 Layout
 
